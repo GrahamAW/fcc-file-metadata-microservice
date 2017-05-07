@@ -1,0 +1,5 @@
+input[type=submit]:disabled,
+button:disabled {
+  background-color: #ddd;
+  cursor: default;
+}
